@@ -8,16 +8,16 @@ Resolvendo exercícios de Lógica de programação, pelo curso do Prof° Guanaba
 
 ## Exercício 2:
 
-- Transformando real em dolar
+- Transformando real em dolar;
 
 ## Exercício 3:
 
-- Transformar °C em F°
+- Transformar °C em F°;
 
 ## Exercício 4:
 
-- Calcular imposto dos produtos
+- Calcular imposto dos produtos;
 
 ## Exercício 5:
 
-- Descobri o valor total do produto com 20% de juros + parcelas
+- Descobri o valor total do produto com 20% de juros + parcelas;
